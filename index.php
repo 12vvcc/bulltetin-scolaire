@@ -7,23 +7,23 @@
 </head>
 <body>
     <form action="index.php" method="post" >
-    <input type="text" name="dic" placeholder="المواظبة والسلوك"><br><br>
-    <input type="text" name="ei" placeholder="التربية الإسلامية">
-    <input type="text" name="aei" placeholder="التربية الإسلامية:الأنشطة"><br><br>
-    <input type="text" name="esp" placeholder="Sport"><br><br>
-    <input type="text" name="math" placeholder="math"><br><br>
-    <input type="text" name="ph" placeholder="الفلسفة">
-    <input type="text" name="aph" placeholder="الفلسفة:الأنشطة"><br><br>
-    <input type="text" name="pc" placeholder="physique chimie">
-    <input type="text" name="apc" placeholder="physique chimique:activité"><br><br>
-    <input type="text" name="en" placeholder="englais">
-    <input type="text" name="aen" placeholder="anglais:activité"><br><br>
-    <input type="text" name="ar" placeholder="اللغة العربية">
-    <input type="text" name="aar" placeholder="اللغة الغربية :الأنشطة"><br><br>
-    <input type="text" name="fr" placeholder="français">
-    <input type="text" name="afr" placeholder="français:activité"><br><br>
-    <input type="text" name="svt" placeholder="SVT">
-    <input type="text" name="asvt" placeholder="svt: activité"><br><br>
+    <input type="text" name="dic" placeholder="المواظبة والسلوك"><br>
+    <input type="text" name="ei" placeholder="التربية الإسلامية"><br>
+    <input type="text" name="aei" placeholder="التربية الإسلامية:الأنشطة"><br>
+    <input type="text" name="esp" placeholder="Sport"><br>
+    <input type="text" name="math" placeholder="math"><br>
+    <input type="text" name="ph" placeholder="الفلسفة"><br>
+    <input type="text" name="aph" placeholder="الفلسفة:الأنشطة"><br>
+    <input type="text" name="pc" placeholder="physique chimie"><br>
+    <input type="text" name="apc" placeholder="physique chimique:activité"><br>
+    <input type="text" name="en" placeholder="englais"><br>
+    <input type="text" name="aen" placeholder="anglais:activité"><br>
+    <input type="text" name="ar" placeholder="اللغة العربية"><br>
+    <input type="text" name="aar" placeholder="اللغة الغربية :الأنشطة"><br>
+    <input type="text" name="fr" placeholder="français"><br>
+    <input type="text" name="afr" placeholder="français:activité"><br>
+    <input type="text" name="svt" placeholder="SVT"><br>
+    <input type="text" name="asvt" placeholder="svt: activité"><br>
     
     <input type="submit" value="submit" name="submit">       
     </form>
