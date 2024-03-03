@@ -44,7 +44,7 @@
     $csvt = 5;
     $ctotal = $cdic + $cei + $cesp + $cmath + $cph + $cpc + $cen + $car + $cfr + $csvt ;
 
-    $ei=
+    
 
     // catcule
 
